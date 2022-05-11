@@ -21,7 +21,7 @@
                     <h1><span class="font-extrabold" style="font-weight:bold;">Email:</span> {{Auth::user()->email}}</h1>
                     <h1><span class="font-extrabold" style="font-weight:bold;">Phone:</span> {{Auth::user()->phone}}</h1>
                     <h1></h1>
-                    
+                    <h3>ss</h3>
                     <div class="alert alert-dark" role="alert">
                         A simple dark alert—check it out!
                     </div>
